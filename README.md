@@ -8,6 +8,6 @@
 
 
 ![JS](https://skillicons.dev/icons?i=js)
-![css](https://skillicons.dev/icons?i=css)
 ![HTML](https://skillicons.dev/icons?i=html)
+![css](https://skillicons.dev/icons?i=css)
 ![REACT](https://skillicons.dev/icons?i=react)
